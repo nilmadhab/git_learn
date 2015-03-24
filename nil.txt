@@ -2,3 +2,5 @@ Hello there
 
 nil here
 
+some new lines in main
+
